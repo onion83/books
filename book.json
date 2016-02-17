@@ -11,3 +11,12 @@
         }
     }
 }
+
+{
+    "variables": {
+        "authors": [
+            { "name": "Samy" },
+            { "name": "Aaron" }
+        ]
+    }
+}
