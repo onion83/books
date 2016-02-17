@@ -18,3 +18,10 @@ class a {
 ```
 
 ![](捕获.PNG)
+
+``` javascript
+var a=123;
+function www() {
+ 
+}
+```
