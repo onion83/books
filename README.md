@@ -11,7 +11,7 @@ echo file_get_contents();
 class a {
   public function google() {
      echo "www.google.com";
-     这是一个错误的例子
+     //这是一个错误的例子
   }
 
 }
