@@ -5,6 +5,16 @@ This file serves as your book's preface, a great place to describe your book's c
 
 ```php
 <?php
+class A {
+
+  function a() {
+     echo $a;
+  }
+
+}
+//这是一个测试
+$c = new A();
+$c->a()
 
 echo file_get_contents();
 
