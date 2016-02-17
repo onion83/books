@@ -9,11 +9,9 @@
             "family": "sans",
             "size": "2"
         }
-    }
-}
+    },
 
-{
-    "variables": {
+     "variables": {
         "authors": [
             { "name": "Samy" },
             { "name": "Aaron" }
