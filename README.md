@@ -6,5 +6,5 @@ This file serves as your book's preface, a great place to describe your book's c
 ```php
 <?php
 
-echo file_get_contents()
+echo file_get_contents();
 ```
