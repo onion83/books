@@ -3,5 +3,11 @@
         "fontsettings",
         "maxiang"
     ],
-    "pluginsConfig": {}
+    "pluginsConfig": {
+        "fontsettings": {
+            "theme": "sepia",
+            "family": "sans",
+            "size": "2"
+        }
+    }
 }
